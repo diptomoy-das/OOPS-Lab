@@ -1,8 +1,0 @@
-{
-  "version": 3,
-  "file": "index.js",
-  "sourceRoot": "../../../../",
-  "sources": ["src/veterinary.compact"],
-  "names": [],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAGA;;;;;;;;;;MAWA,AAAA,gBAEC;;;;;;;;;;;;;;;;;;;;;;OAAA;MAGD,AAAA,WAEC;;;;;;;;;;;;;;;;;;;;;;OAAA;;;;;;GACA;EAnBD;;;;;;;;;;;;;;;;;;;;;;;;;;;IAOA;;;;;;;;;yEAAoC;;;;;;;GAYnC;EARD,AAAA,mBAEC;IADC;;;;;;;;;yEAAY;;GACb;EAGD,AAAA,cAEC;mCADQ;;;;;;;;;;;wGAAY;GACpB;;;;;;;;;;;;;;;;IAXD;qCAAA;;;;;;;;;;;0GAAoC;KAAA;;;;;;;;;;"
-}
